@@ -1,2 +1,2 @@
-# NewCorsera
+# NewCoursera
 Coursera test repo
