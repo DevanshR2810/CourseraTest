@@ -1,2 +1,0 @@
-# NewCoursera
-Coursera test repo
